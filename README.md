@@ -50,6 +50,10 @@ npm run test:vitest
 **To run Playwright tests make sure app is serving on localhost because it works in actual `browser`:**
 
 ```bash
+npx playwright install #if you dont have installed playwright
+```
+
+```bash
 # todo this there are two option 
 # 1- either you can use VSC 'Go Live' (recommended)
 # 2- or you run 
